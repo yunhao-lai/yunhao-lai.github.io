@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Chinese Name:</a>. 赖允皓
+subtitle: <a href='#'>Chinese Name:</a> 赖允皓
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: laiyunhao1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>555 In Guangzhou, Jan. 2024</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -31,4 +29,4 @@ Welcome to my homepage! I'm a fourth-year undergraduate student in the School of
 
 My interests focus on algebraic geometry, with potential research interests including: algebraic cycles, moduli spaces, derived categories in algebraic geometry and other topics applying those algebraic methods to problems in geometry. 
 
-You can contact me via `Email' at [laiyh36@mail2.sysu.edu.cn.] I look forward to the opportunity to interview or meet with you.
+You can contact me via `Email` at [laiyh36@mail2.sysu.edu.cn.](http://laiyh36@mail2.sysu.edu.cn) I look forward to the opportunity to interview or meet with you.
