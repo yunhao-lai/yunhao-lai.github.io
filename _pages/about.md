@@ -6,7 +6,7 @@ subtitle: <a href='#'>Chinese Name:</a> 赖允皓
 
 profile:
   align: right
-  image: laiyunhao1.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 In Guangzhou, Jan. 2024</p>
